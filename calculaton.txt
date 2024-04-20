@@ -1,1 +1,1 @@
-summation is 19subtract is 11
+summation is 16subtract is 8subtract is 48

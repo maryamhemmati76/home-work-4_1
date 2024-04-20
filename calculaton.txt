@@ -1,1 +1,4 @@
-summation is 17subtract is 7subtract is 60divide is 2.4
+summation is: 19
+subtract is: 13
+subtract is: 48
+divide is: 5.333333333333333

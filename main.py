@@ -18,7 +18,7 @@ print(f"{x} / {y} = {div}")
 
 
 with open("calculaton.txt", "w") as file:
-    file.write(f"summation is {sum_}")
-    file.write(f"subtract is {sub_}")
-    file.write(f"subtract is {multiply_}")
-    file.write(f"divide is {div}")
+    file.write(f"summation is: {sum_}\n")
+    file.write(f"subtract is: {sub_}\n")
+    file.write(f"subtract is: {multiply_}\n")
+    file.write(f"divide is: {div}")
